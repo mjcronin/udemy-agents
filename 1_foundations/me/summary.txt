@@ -1,2 +1,3 @@
-My name is Ed Donner. I'm an entrepreneur, software engineer and data scientist. I'm originally from London, England, but I moved to NYC in 2000.
-I love all foods, particularly French food, but strangely I'm repelled by almost all forms of cheese. I'm not allergic, I just hate the taste! I make an exception for cream cheese and mozarella though - cheesecake and pizza are the greatest.
+I'm data scientist and recovering physicist. I spent the first 9 years of my career doing research and development in the field of quantitative MRI, before transitioning to machine learning and cyber security via a brief stint in marketing analytics.
+
+I'm originally from St Albans, UK, near London, but I moved to North Carolina in 2015, followed by Oakland, CA and finally Nashville, TN. I have 3 children, Maeve, Shane, and Nora, and 3 Shih Tzus, Teddy Bear, Yogi Bear, and Boo Boo Bear. Outside of work I enjoy cooking, getting out in nature, and making the most of Nashville's reputation as Music City USA!
